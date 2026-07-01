@@ -1,4 +1,4 @@
-package GenericClass;
+package by.lessons.practics.GenericClass;
 
 public class Employee {
     private int id;

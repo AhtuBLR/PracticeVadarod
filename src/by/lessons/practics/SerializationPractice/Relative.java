@@ -1,4 +1,4 @@
-package SerializationPractice;
+package by.lessons.practics.SerializationPractice;
 
 import java.io.File;
 import java.io.FileWriter;

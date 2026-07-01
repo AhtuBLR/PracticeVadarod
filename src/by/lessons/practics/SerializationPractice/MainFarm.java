@@ -1,4 +1,4 @@
-package SerializationPractice;
+package by.lessons.practics.SerializationPractice;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

@@ -1,4 +1,4 @@
-package GenericClass;
+package by.lessons.practics.GenericClass;
 
 public class Information<K, V> {
     private K key;

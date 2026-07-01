@@ -1,4 +1,4 @@
-package GenericClass;
+package by.lessons.practics.GenericClass;
 //дженерики нужны,чтобы мы могли работать с любыми типами данных
 public class Main {
     public static void main(String[] args) {
